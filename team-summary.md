@@ -1,5 +1,7 @@
 # Moment.js Summary Page
 
+### [Presentation Slides](https://docs.google.com/presentation/d/1hejTK41LPeTpVUu15oPDhCcHLUm3ZTRmgVfVXqjEZWY/edit?usp=sharing)
+
 ## Issues we thought about
 
 ### [Locale Issue in Catalan](https://github.com/moment/moment/issues/4508)
